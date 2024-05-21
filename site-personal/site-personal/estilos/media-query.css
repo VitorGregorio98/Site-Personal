@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 800px) {
+
+
+    body {
+        margin-top: -40px;
+    }
+
+    main {
+        margin-left: 400px;
+        margin-right: 400px;
+    }
+}
