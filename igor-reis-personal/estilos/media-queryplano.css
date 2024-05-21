@@ -41,6 +41,8 @@
     }
     
     div {
-      display: inline-block;
+        display: inline-block;
+        width: 350px;
+        height: 320px;
     }    
 }
